@@ -1,2 +1,1 @@
-# BLS
-WUFP
+# BLS-Refresher
